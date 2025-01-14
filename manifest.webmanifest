@@ -1,0 +1,84 @@
+{
+  "name": "Alienox",
+  "short_name": "Alienox",
+  "id": "Alienox.Alienox.Alienox",
+  "description": "Embark on an interstellar adventure in your rocket! Navigate through space, blasting chambers filled with resources like fuel, minerals, and energy. Match and shoot to collect what you need while dodging obstacles and upgrading your rocket. Strategize your shots to unlock new galaxies and become the ultimate space explorer! 🚀✨",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "08c4a6103295a288580bd1ba8f4d461875cd18ef8940fbf11ccd67948689a53f-ios-icon-20.png",
+        "sizes": "20x20"
+      },{
+        "src": "0364cd3ad3ec6bb3ab6a2bc26fe7d69af7b620e4effaf884a201fb89c34f0ae6-ios-icon-29.png",
+        "sizes": "29x29"
+      },{
+        "src": "8f5f81e8f2cd2bf022eee132abee708d7b30c3a5cb8f5edfd2af59fe96fbd719-android-icon-36.png",
+        "sizes": "36x36"
+      },{
+        "src": "873a08817f4d6b17022c26a43d509d889876f530a324e7a0f912634cabb362cb-ios-icon-40.png",
+        "sizes": "40x40"
+      },{
+        "src": "7c5ab8fe834cef81d5011fae113fa5c732432778b24302054ce1503e80336dd2-android-icon-48.png",
+        "sizes": "48x48"
+      },{
+        "src": "9735c6bd7e54725233d0addcc2cfce3a90459bbead379652cc336f5d7cbc22cb-ios-icon-50.png",
+        "sizes": "50x50"
+      },{
+        "src": "116ae16789c411dbd23e6bea8d52fb5ef552a4854e9f4cc7cecfceeb5d0d4b2b-ios-icon-57.png",
+        "sizes": "57x57"
+      },{
+        "src": "bc5e640950c198e8e163c510367ede2e4b4d3ce8c7dbfd56e9b67cc0d50b6248-ios-icon-58.png",
+        "sizes": "58x58"
+      },{
+        "src": "efe2bc51acf61e2b4b7da3752f913eba276fc12fad414564e403382e80f6b8bd-ios-icon-60.png",
+        "sizes": "60x60"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode5.png",
+        "sizes": "72x72"
+      },{
+        "src": "f2ad4828dd925f82227e1daa7ac44c33e1948ee74aff35e5782509ae8c038fb8-ios-icon-76.png",
+        "sizes": "76x76"
+      },{
+        "src": "b5a47b0bb6052e9ca7bf22e3078d5b8f70134fed64b95705692f535fb45090b0-ios-icon-80.png",
+        "sizes": "80x80"
+      },{
+        "src": "d470cd754a5cd1519415a97059685b54435e9fc4e6d6c080655c6f770bf3d73d-ios-icon-87.png",
+        "sizes": "87x87"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode4.png",
+        "sizes": "96x96"
+      },{
+        "src": "ab9e9767ff620081f876376182b5f73dd0384ed8fea6f91bb9484171746831e7-ios-icon-100.png",
+        "sizes": "100x100"
+      },{
+        "src": "866df1ba45517e9d1a239aa80554bc00d5eea8d498ff5d2f8bb58a505cf1bfb3-ios-icon-114.png",
+        "sizes": "114x114"
+      },{
+        "src": "ca5ff7b11eced1985b738fe1c0e89df165c33f1b68852ab8de88fc4ff8fd61e9-ios-icon-120.png",
+        "sizes": "120x120"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode3.png",
+        "sizes": "144x144"
+      },{
+        "src": "663f0242dd3f165025545755f13b2e03dcb74d90372c7d3fe2962067d44f77a8-ios-icon-152.png",
+        "sizes": "152x152"
+      },{
+        "src": "f25c65e9cad9b10beaf03f60c95625a757088a35df4643dd90c98f15b0b8775d-ios-icon-167.png",
+        "sizes": "167x167"
+      },{
+        "src": "6a6268f86319f24ad5293b55b4fb29af118f68780c3be4fe3b2688d29ce4ebf9-ios-icon-180.png",
+        "sizes": "180x180"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode2.png",
+        "sizes": "192x192"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode.png",
+        "sizes": "512x512"
+      },{
+        "src": "868c46d81308f94c8f3d1fd65211edf750108653d8de3bd9c1fe79742fe9324b-LOGO - dark mode6.png",
+        "sizes": "1024x1024"
+      }]
+}
